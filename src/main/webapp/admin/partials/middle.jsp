@@ -6,6 +6,7 @@
                 <p class="nav-link userButton" onclick="window.location.href='user';">Dashboard</p>
                 <p class="nav-link productButton" onclick="window.location.href='product';">Product</p>
                 <p class="nav-link orderitemButton" onclick="window.location.href='orderItem';">Order Item</p>
+                <p class="nav-link deliveryAddressButton" onclick="window.location.href='deliveryAddress';">Delivery Address</p>
             </div>
             <div class="user-profile">
                 <span class="admin-name"><%= firstName %> <%= lastName %></span>
